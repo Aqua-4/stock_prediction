@@ -6,3 +6,4 @@ nbformat
 openpyxl
 matplotlib
 pandas-ta
+statsmodels
