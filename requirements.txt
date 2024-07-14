@@ -7,3 +7,4 @@ openpyxl
 matplotlib
 pandas-ta
 statsmodels
+arch
