@@ -1,0 +1,19 @@
+[project]
+name = "stock-prediction"
+version = "0.1.0"
+description = "Predict stock using various models"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "arch>=7.2.0",
+    "matplotlib>=3.10.6",
+    "nbformat>=5.10.4",
+    "numpy>=2.3.3",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.2",
+    "plotly>=6.3.0",
+    "pyyaml>=6.0.3",
+    "scikit-learn>=1.7.2",
+    "statsmodels>=0.14.5",
+    "tensorflow[and-cuda]>=2.20.0",
+]
